@@ -2,7 +2,7 @@
 
 A Chat App project.
 
-Fuctionalities:
+Functionalities:
 1. one to one chat.
 2. show status of user (online/offline).
 3. group chat.
